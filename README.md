@@ -1,2 +1,2 @@
 # hello-world
-sample repository
+Hello...This Satya Krishna staying in Bangalore, working as solution archiect.
